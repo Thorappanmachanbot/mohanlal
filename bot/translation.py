@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് പക്ഷെ വെറുതെ സമയം കളയണ്ട എന്നെ @malayalammovies_group ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ
 
 For More Details Click Help Button Below..
 @CrazyBotsz
